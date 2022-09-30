@@ -1,0 +1,15 @@
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\bin\Debug\net6.0-windows\accesoDatos.deps.json
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\bin\Debug\net6.0-windows\accesoDatos.dll
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\bin\Debug\net6.0-windows\accesoDatos.pdb
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\bin\Debug\net6.0-windows\Dominio.dll
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\bin\Debug\net6.0-windows\Dominio.pdb
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.AssemblyInfo.cs
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.csproj.CopyComplete
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.dll
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\refint\accesoDatos.dll
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\accesoDatos.pdb
+C:\Users\bryan\source\repos\Ejercicio_BryanSegoviano\accesoDatos\obj\Debug\net6.0-windows\ref\accesoDatos.dll
